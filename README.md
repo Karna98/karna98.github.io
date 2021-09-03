@@ -1,2 +1,3 @@
 # karna98.github.io
-Personal Website
+
+Copyright (c) 2021 Vedant Wakalkar
